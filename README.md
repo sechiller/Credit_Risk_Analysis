@@ -34,4 +34,5 @@ The purpose of this analysis is to apply machine learning to address the challen
 ![image](https://user-images.githubusercontent.com/103475613/181423085-e2e19e7a-9c3b-456d-b4a1-7002178121e0.png)
 
 ## Credit Analysis Summary
-The bike sharing app is a good investment. Seasonality and weather should also be considered when looking at trends and number of rentals. Also growth over time would be valuable, so different years should be compared. 
+There is a summary of the results (2 pt)
+There is a recommendation on which model to use, or there is no recommendation with a justification
