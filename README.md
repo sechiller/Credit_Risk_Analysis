@@ -34,5 +34,8 @@ The purpose of this analysis is to apply machine learning to address the challen
 ![image](https://user-images.githubusercontent.com/103475613/181423085-e2e19e7a-9c3b-456d-b4a1-7002178121e0.png)
 
 ## Credit Analysis Summary
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification
+The AdaBoost Classifier algorithm has the highest balanced accuracy score. Undersampling has the lowest balanced accuracy score. 
+
+The Unsampling has the highest number of false negatives based on the confusion matrix. Combination and Oversampling also both had a high number of false negatives. 
+
+The AdaBoost Classifier algorithm had the lowest number of false negatives. Because the AdaBoost Classifier algorith had the lowest number of false negatives and the highest balanced accuracy score, this is the algorithm I would recoomend. 
